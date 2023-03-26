@@ -1,2 +1,9 @@
 # Yo-Mama-Jokes-Generator-
-Does just what it says it does 
+
+
+Generating Yo Mama Jokes Using Python
+
+*Does just what it says it does*
+![banner](banner.webp)
+
+Dataset Source: https://github.com/joshbuchea/yo-mama
